@@ -1,0 +1,8 @@
+export enum CoreConstant {
+    DASHBOARD_HIDDEN_KEY = 200,
+
+    // Login Response
+    RESPONSE_DELAY_TIME = 1000,
+    RESPONSE_STATUS_SUCCESS = "SUCCESS",
+    RESPONSE_STATUS_FAILED = "FAILED",
+}
